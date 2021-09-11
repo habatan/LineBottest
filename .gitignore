@@ -1,0 +1,6 @@
+*.cfg
+/_mine/
+/include/
+/Lib/
+/Scripts/
+/__pycache__/
