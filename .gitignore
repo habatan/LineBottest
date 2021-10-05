@@ -1,4 +1,6 @@
 *.cfg
+*.py
+*.ipynb
 /_mine/
 /include/
 /Lib/
